@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417163349392",
+    "project_id": "esof-app-60ddf",
+    "storage_bucket": "esof-app-60ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417163349392:android:5aec173bf715bb55d03715",
+        "android_client_info": {
+          "package_name": "com.example.proj_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVacMzNh9WdCTbLroPbUZEx9cO-OVQnjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
